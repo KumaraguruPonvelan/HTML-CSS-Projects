@@ -1,0 +1,29 @@
+body
+{
+    .vedio{
+        height: 500px;
+        width: 100%;
+        position: relative;
+    }
+    .vedio{
+        height: 500px;
+        width: 100%;
+        object-fit: cover;
+    }
+    .vedio .text{
+        position: absolute;
+        left: 0;
+        top: 0;
+        height: 500p;
+        width: 100%;
+        color: aqua;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 100;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: xx-large;
+        text-transform: uppercase;
+    }
+
+}
